@@ -25,5 +25,6 @@ Open index.html in your browser, or serve the folder with a simple local server 
 ## Contact
 
 Email: rai.rahul.kumar509@gmail.com
-LinkedIn: https://www.linkedin.com/in/rahul-kumar-509
+LinkedIn: https://www.linkedin.com/in/rahul-kumar-b6b927174/
 GitHub: https://github.com/Rahul75-code
+leetcode: https://leetcode.com/u/Rahul75-code/
