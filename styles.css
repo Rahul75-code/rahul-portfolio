@@ -139,7 +139,8 @@ nav {
 }
 
 .intro {
-  max-width: 720px;
+  max-width: none;
+  width: 100%;
   margin: 0 0 24px;
   color: var(--text);
   font-size: 15px;
