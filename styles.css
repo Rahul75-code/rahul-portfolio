@@ -145,6 +145,11 @@ nav {
   color: var(--text);
   font-size: 15px;
   line-height: 1.6;
+  text-align: justify;
+  text-justify: inter-word;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
 }
 
 .contact-links {
